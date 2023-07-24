@@ -48,7 +48,7 @@ resources:
   - ../common/istio-1-16/kubeflow-istio-resources/base
 
   # Kubeflow Pipelines
-  - ../apps/pipeline/upstream/env/cert-manager/platform-agnostic-multi-user
+  - ../apps/pipeline/upstream/env/platform-agnostic
   # Katib
   - ../apps/katib/upstream/installs/katib-with-kubeflow
   # Central Dashboard
